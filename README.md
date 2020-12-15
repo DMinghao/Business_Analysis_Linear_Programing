@@ -11,3 +11,8 @@
 - Q7 Ying
 - Q8 Minghao
 - Q9 Han
+
+## Install 
+``` bash
+pip install SciPy
+```
