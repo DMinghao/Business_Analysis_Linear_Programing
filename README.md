@@ -17,20 +17,23 @@ Require Python 3 or higher
     ```
 
 ### Troubleshoot 
-If encounter error: `Solver not found` or `NoneType Error`
-Install pulp solver 
-- Mac: 
+If encounter error: 
+- `Solver not found`
+- `NoneType Error` 
+
+PuLP solver is missing -> Install PuLP solver 
+- For Mac: 
     ```bash
     brew install glpk
     ```
-- Conda environment: 
+- For Conda environment: 
     ```bash
     conda install -c conda-forge glpk
     ```
 
 <br/>
 
-## Code Walkthrough
+## Implementation 
 
 ### [SciPy](https://www.scipy.org/)
 
