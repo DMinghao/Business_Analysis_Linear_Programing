@@ -239,7 +239,7 @@ model += (y <= 30, "cat_food_constraint")
 ```
 
 ## About 
-This project was initiated by @dminghao @HLiu-970725 @LYLwithDCT @ReynaYC 
+This project was initiated by [@DMinghao](https://github.com/DMinghao) [@HLiu-970725](https://github.com/HLiu-970725) [@LYLwithDCT](https://github.com/LYLwithDCT) [@ReynaYC](https://github.com/ReynaYC) 
 
 ### Contributing
 Please check out the [CONTRIBUTING](CONTRIBUTING.md)  document
