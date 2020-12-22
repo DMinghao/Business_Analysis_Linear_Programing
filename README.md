@@ -19,7 +19,7 @@ This repo is for the BA final project. In this project we use two python package
   - [References](#references)
   - [License](#license)
 
-This repo consist of the original [ICE2 MSword document](BA%20ICE%202%20.docx) and the provided correct answer [MSexcel document](BA%20ICE%202%20Solutions(1).xlsx). For some problems in the ICE2, both implementation methods are used, and some others are only implemented with one. Please check out the [Contributing](CONTRIBUTING.md) document for contributing to this repo (implementing more methods, etc.). 
+This repo consist of the original [ICE2 MSword document](ICE%202%20documents/BA%20ICE%202%20.docx) and the provided correct answer [MSexcel document](ICE%202%20documents/BA%20ICE%202%20Solutions(1).xlsx). For some problems in the ICE2, both implementation methods are used, and some others are only implemented with one. Please check out the [Contributing](CONTRIBUTING.md) document for contributing to this repo (implementing more methods, etc.). 
 <!-- <small>There are some errors in the excel document causing inconsistent results</small> -->
 
 ## Getting Started 
