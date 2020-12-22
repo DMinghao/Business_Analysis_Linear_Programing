@@ -272,7 +272,26 @@ model += (4*x + 5*y <= 101, "meat_constraint")
 model += (4*x + 10*y <= 160, "filler_constraint")
 model += (x <= 40, "dog_food_constraint")
 model += (y <= 30, "cat_food_constraint")
+```
+Below is the result output
+```python
+dog_cat_food_profit:
+MAXIMIZE
+4*X1 + 5*X2 + 0
+SUBJECT TO
+meat_constraint: 4 X1 + 5 X2 <= 101
 
+corns_constraint: 6 X1 + 3 X2 <= 120
+
+filler_constraint: 4 X1 + 10 X2 <= 160
+
+dog_food_constraint: X1 <= 40
+
+cat_food_constraint: X2 <= 30
+
+VARIABLES
+X1 Continuous
+X2 Continuous
 ```
 
 ## About 
